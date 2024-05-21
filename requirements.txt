@@ -1,8 +1,10 @@
-langchain
+langchain_community
 langchain-astradb
+langchain-google-genai
 datasets
 pypdf
 python-dotenv
 flask
+boto3
 
 -e .
